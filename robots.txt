@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shor106.github.io/web-zhcn-leisu-com/sitemap.xml
